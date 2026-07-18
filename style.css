@@ -62,13 +62,13 @@ h1 {
     color: white;
     font-size: 40px;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 400px;
     margin-top: 100px;
 }
 .p1 {
     color: white;
     text-align: center;
-    margin-left: 350px;
+    margin-left: 450px;
     width: 508px;
     height: 20px;
 }
@@ -76,7 +76,7 @@ h3 {
     color: white;
     width: 508px;
     height: 24px;
-    margin-left: 360px;
+    margin-left: 460px;
 }
 .login {
 background-color: transparent;
@@ -88,25 +88,25 @@ background-color: transparent;
     border-radius: 5px;
  font-weight: bold;
  text-align: center;
- margin-left: 320px;
+ margin-left: 420px;
 }
 .b2 {
     background-color: red;
     padding: 20px;
     border-radius: 8px;
-    margin-left: 520px;
+    margin-left: 620px;
     color: white;
     font-size: large;
     font-weight: bolder;
 }
 .p2 {
     color: darkgray;
-    margin-left: 508px;
+    margin-left: 608px;
 }
 h2 {
     color: #FFFFFF;
     font-size: 24px;
     font-weight: bolder;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 100px;
 }
